@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class Main {
   public static void main(String[] args) {
-    System.out.println("Hello out there.");
+    System.out.println("Hello out there !");
     System.out.println("I will add two numbers for you");
     System.out.println("Enter two whole numbers on a line");
 
